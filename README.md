@@ -1,4 +1,4 @@
-### Valorant match analysis featuring FNATIC Boaster from data at Tracker.gg 
+### Valorant match analysis featuring FNATIC Boaster 
 
 I noticed there was a large amount of JSON returned from each Valorant match on Tracker.gg and was curious what player analytics I could glean from the data.  I break down the various data types returned and specifically focus on player performance including:
 
