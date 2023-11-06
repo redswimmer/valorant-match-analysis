@@ -4,6 +4,7 @@ I noticed there was a large amount of JSON returned from each Valorant match on 
 
 - Round-by-round player performance
 - How loadouts affect player performance
+- Analyze Side Preference by looking at performance metrics for players when they are attackers or defenders
 - Round win predictions using random forest
 - Selecting the "best features" for round predictions
 
